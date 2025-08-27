@@ -14,3 +14,15 @@ olá meu nome é **Helen**, tenho _15 anos_, gosto de livros variados, RPG, cozi
 -pintura
 -gastronomia
 -artesanato
+
+## meu primeiro programa
+
+```
+#include <stdio.h>
+ int main() {
+
+    printf("hello word");
+
+    return 0;
+}
+```
